@@ -1,0 +1,116 @@
+{
+  "store_name": "Toko Online Hosting",
+  "tagline": "Hosting Murah & Script Digital Lengkap",
+  "description": "Toko Online Hosting adalah pusat layanan digital lengkap untuk kebutuhan hosting dan script. Menyediakan berbagai layanan dengan harga terjangkau, cocok untuk pemula hingga developer berpengalaman.",
+  "services": {
+    "hosting_panels": {
+      "packages": [
+        {
+          "name": "1GB Panel",
+          "price": "Rp 1.000"
+        },
+        {
+          "name": "2GB Panel",
+          "price": "Rp 2.000"
+        },
+        {
+          "name": "5GB Panel",
+          "price": "Rp 5.000"
+        },
+        {
+          "name": "10GB Panel",
+          "price": "Rp 10.000"
+        },
+        {
+          "name": "Unlimited Panel",
+          "price": "Rp 12.000"
+        }
+      ],
+      "features": [
+        "Akses penuh ke panel (login & kontrol penuh)",
+        "Dukungan uptime tinggi",
+        "Bisa untuk deploy bot, host script, dan kebutuhan coding lainnya"
+      ]
+    },
+    "scripts": [
+      {
+        "name": "Script Bot WhatsApp",
+        "features": [
+          "Support MD (Multi Device)",
+          "Auto-responder",
+          "Menu interaktif",
+          "Fitur lengkap"
+        ]
+      },
+      {
+        "name": "Script Bug",
+        "features": [
+          "Untuk uji keamanan",
+          "Pengembangan exploit",
+          "Testing system"
+        ]
+      },
+      {
+        "name": "Script Push",
+        "features": [
+          "Kirim notifikasi otomatis",
+          "Cocok untuk bot promosi & auto blast"
+        ]
+      },
+      {
+        "name": "Script MD (Multi Device)",
+        "features": [
+          "Full source",
+          "Connect via Baileys/MD",
+          "Stabil & minim error"
+        ]
+      },
+      {
+        "name": "Script CPanel",
+        "features": [
+          "Deploy panel cpanel digital",
+          "Fitur reset otomatis",
+          "Tambah user"
+        ]
+      },
+      {
+        "name": "Script Store",
+        "features": [
+          "Toko online siap pakai",
+          "Tampilan menarik",
+          "Bisa dihosting langsung"
+        ]
+      }
+    ]
+  },
+  "contact": {
+    "admin": {
+      "name": "(isi nama admin)",
+      "whatsapp": "https://wa.me/08xxxxxxxxxx",
+      "telegram": "@namatelegramadmin"
+    },
+    "payments": {
+      "dana": {
+        "number": "0882003493812",
+        "name": "PATIMAH"
+      },
+      "gopay": {
+        "number": "08895668901"
+      }
+    },
+    "social_media": {
+      "instagram": "@namatoko",
+      "tiktok": "@namatoko",
+      "facebook": "Toko Online Hosting",
+      "website": "https://produk-rho.vercel.app"
+    }
+  },
+  "why_us": [
+    "Harga murah & bersahabat",
+    "Proses cepat, otomatis & support 24 jam",
+    "Aman & terpercaya",
+    "Sudah melayani ratusan pengguna",
+    "Bisa request custom panel / script"
+  ],
+  "note": "Hubungi admin untuk informasi dan pemesanan lebih lanjut."
+}
